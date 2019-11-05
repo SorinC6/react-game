@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Code-Challenge-Aurity/static/css/main.b100e6da.chunk.css",
+    "main.js": "/Code-Challenge-Aurity/static/js/main.56cdd026.chunk.js",
+    "main.js.map": "/Code-Challenge-Aurity/static/js/main.56cdd026.chunk.js.map",
+    "runtime-main.js": "/Code-Challenge-Aurity/static/js/runtime-main.6c2c3e77.js",
+    "runtime-main.js.map": "/Code-Challenge-Aurity/static/js/runtime-main.6c2c3e77.js.map",
+    "static/css/2.aa7fcd32.chunk.css": "/Code-Challenge-Aurity/static/css/2.aa7fcd32.chunk.css",
+    "static/js/2.4b448296.chunk.js": "/Code-Challenge-Aurity/static/js/2.4b448296.chunk.js",
+    "static/js/2.4b448296.chunk.js.map": "/Code-Challenge-Aurity/static/js/2.4b448296.chunk.js.map",
+    "index.html": "/Code-Challenge-Aurity/index.html",
+    "precache-manifest.5b4ac44d148bd6525fccee095f02f688.js": "/Code-Challenge-Aurity/precache-manifest.5b4ac44d148bd6525fccee095f02f688.js",
+    "service-worker.js": "/Code-Challenge-Aurity/service-worker.js",
+    "static/css/2.aa7fcd32.chunk.css.map": "/Code-Challenge-Aurity/static/css/2.aa7fcd32.chunk.css.map",
+    "static/css/main.b100e6da.chunk.css.map": "/Code-Challenge-Aurity/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c2c3e77.js",
+    "static/css/2.aa7fcd32.chunk.css",
+    "static/js/2.4b448296.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.56cdd026.chunk.js"
+  ]
+}
